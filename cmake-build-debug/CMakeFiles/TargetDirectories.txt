@@ -1,0 +1,3 @@
+C:/Users/voric/Documents/C-Trees/cmake-build-debug/CMakeFiles/C_Trees.dir
+C:/Users/voric/Documents/C-Trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/voric/Documents/C-Trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
