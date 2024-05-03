@@ -11,7 +11,6 @@ bool is_empty(T_TREE_NODE *node) {
 }
 
 void print_node(T_TREE_NODE *node) {
-
     if (is_empty(node)) {
         printf("No node provided\n");
     } else {
